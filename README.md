@@ -1,1 +1,1 @@
-This is my first proper project on github and any feedback would be appreciated.
+A simple app has a lot of handy (and stupid) features
