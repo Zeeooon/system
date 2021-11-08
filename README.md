@@ -1,1 +1,1 @@
-This is my first proper project on github and any feedback would be appreciated.
+A simple app that allows you to do a lot of handy and annoying tasks all from one place
