@@ -1,1 +1,1 @@
-A simple app has a lot of handy (and stupid features
+A simple app has a lot of handy (and stupid) features
