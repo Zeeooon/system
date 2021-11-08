@@ -1,4 +1,5 @@
-#include <bits/stdc++.h>
+//basic calculator that almost everything has
+
 #include <string> 
 #include <iostream>
 using namespace std;

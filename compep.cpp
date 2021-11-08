@@ -8,7 +8,8 @@ char str[26] = "HAIL COMMUNIST PEPPER PIG";
 
 void compep()
 {
-    for (int i = 0; i < 999999; i++){
+    while (true){
+        //prints out HAIL COMMUNIST PEPPER PIG indefinitely
         for(int i = 0; i < sizeof(str);i++)
         {
             cout << str[i] << " ";

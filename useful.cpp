@@ -2,7 +2,6 @@
 #include <string>
 
 #include "includes.h"
-using namespace std;
 
 string input;
 
