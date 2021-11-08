@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 
+
 #include "includes.h"
 
 string input;
@@ -9,6 +10,7 @@ string input;
 int main()
 {
     while (true){
+        SetConsoleTitleA("SystemApp - For Power users");
         cout << "What will you like to do?" << endl;
         getline(cin, input); // gets a line of input from the user 
         //check if the input matches a function
